@@ -15,17 +15,12 @@ Notebooks:
 - General usage: [filter_profile_service.ipynb](filter_profile_service/filter_profile_service.ipynb)
 
 
-# SVO Theory Server Notebooks
-
----
+## SVO Theory Server Notebooks
 
 This project provides programmatic access to the [SVO Theory Server](http://svo2.cab.inta-csic.es/theory/newov2/index.php), which hosts 70 collections of theoretical stellar spectra and observational templates (approximately 285,000 spectra and 668 GB of data).
-
----
 
 | Notebook | Description |
 |------|-------------|
 | [StellarTheoreticalEspectra.ipynb](theory/StellarTheoreticalEspectra.ipynb) | Theoretical spectra access: discovery, download and visualization |
-
 
 ---
