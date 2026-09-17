@@ -21,6 +21,7 @@ This project provides programmatic access to the [SVO Theory Server](http://svo2
 
 | Notebook | Description |
 |------|-------------|
-| [StellarTheoreticalEspectra.ipynb](theory/StellarTheoreticalEspectra.ipynb) | Theoretical spectra access: discovery, download and visualization |
+| [stellar_theoretical_espectra.ipynb](theory/stellar_theoretical_espectra.ipynb) | Theoretical spectra access: discovery, download and visualization |
+| [mag2flux.ipynb](flux_to_magnitude/mag2flux.ipynb) | Photometric magnitudes to fluxes: batch conversion, empty-value handling and CSV or VOTable output |
 
 ---
