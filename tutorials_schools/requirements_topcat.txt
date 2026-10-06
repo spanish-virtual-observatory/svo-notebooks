@@ -1,0 +1,11 @@
+notebook
+astropy
+astroquery
+numpy
+pandas
+matplotlib
+pyvo
+plotly
+ipyaladin
+Scipy
+seaborn
