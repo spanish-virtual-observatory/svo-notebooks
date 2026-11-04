@@ -1,0 +1,8 @@
+astropy
+astroquery
+pyvo
+numpy
+pandas
+matplotlib
+rich
+requests
