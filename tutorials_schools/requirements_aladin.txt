@@ -9,3 +9,5 @@ mocpy
 cdshealpix
 plotly
 ipyaladin
+
+randomsdss
